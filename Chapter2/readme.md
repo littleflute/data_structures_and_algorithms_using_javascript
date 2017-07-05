@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/data_structures_and_algorithms_using_javascript/edit/master/Chapter2/readme.md)
+[v0.0.4](https://github.com/littleflute/data_structures_and_algorithms_using_javascript/edit/master/Chapter2/readme.md)
 
 [chap2.js](chap2.js)
 
@@ -22,6 +22,13 @@
 
 [chap2_10.js](chap2_10.js)
 
+[chap2_11.js](chap2_11.js)
+
+[chap2_12.js](chap2_12.js)
+
+[chap2_13.js](chap2_13.js)
+
+[chap2_14.js](chap2_14.js)
 
 [(..)](..)
 
