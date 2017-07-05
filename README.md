@@ -1,3 +1,9 @@
+
+[v0.0.2](https://github.com/littleflute/data_structures_and_algorithms_using_javascript/edit/master/README.md)
+
+
+
+
 data_structures_and_algorithms_using_javascript
 ===============================================
 
